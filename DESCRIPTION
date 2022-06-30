@@ -1,12 +1,14 @@
 Package: Rdshs
-Title: What the Package Does (One Line, Title Case)
+Title: Sports Data Examples in R
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Marc", "Garnica Caparrós", , "m.garnica@dshs-koeln.de", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7776-6755"))
+Description: Sports Data Examples for Data Science.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
