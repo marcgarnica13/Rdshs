@@ -8,12 +8,12 @@
 #'   \item{player_id}{Player identifier.}
 #'   \item{player_height}{Player height, in cm.}
 #'   \item{player_position}{Player position: Guard, Forward or Center.}
-#'   \item{ncaa_48pts}{Player points per game in the NCAA.}
-#'   \item{ncaa_assist_pct}{Player assist percentage in the NCAA per 100 units.}
-#'   \item{ncaa_turnover_pct}{Player turnover percentage in the NCAA per 100 units.}
-#'   \item{ncaa_usage_rate}{Player usage rate in the NCAA.}
-#'   \item{nba_40pts}{Player points per game in the NBA.}
-#'   \item{nba_winshare}{Player WinShare in the NBA.}
+#'   \item{NCAA_40pts}{Player points per game in the NCAA.}
+#'   \item{NCAA_assist_pct}{Player assist percentage in the NCAA per 100 units.}
+#'   \item{NCAA_turnover_pct}{Player turnover percentage in the NCAA per 100 units.}
+#'   \item{NCAA_usage_rate}{Player usage rate in the NCAA.}
+#'   \item{NBA_48pts}{Player points per game in the NBA.}
+#'   \item{NBA_winshare}{Player WinShare in the NBA.}
 #' }
 #' @source \url{http://www.diamondse.info/}
 "basketball.draft.development"
