@@ -37,6 +37,8 @@ nba_ws <- (ncaa_40pts * ncaa_40pts_factor_to_ws) +
   (ncaa_height_interactor_factor * (ncaa_height * ncaa_40pts * 0.1)) +
   error_term
 
+numerical_position <- nba_ws - (ncaa_heih)*0.01 - ncaa_assist_pct
+
 #Checking integrations
 
 # Basic Linear Regression
