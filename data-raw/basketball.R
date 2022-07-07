@@ -19,8 +19,6 @@ ncaa_usage_rate_interactor <- abs(rsn(n = 200, xi = 1.3, omega = 0.5, alpha = 3)
 ncaa_height <- rsn(n = 200, xi = 194, omega = 8, alpha = 1)
 ncaa_height_interactor_factor <- rsn(n = 200, xi = -0.05, omega = 0.05, alpha = -2, tau = 0, dp = NULL)
 
-ncaa_position <- rep(c("Guard","Forward","Center"), 200*c(0.3,0.4,0.3))
-
 null_factor <- rnorm(200, sd = 0.15)
 error_term <- rnorm(200, mean=3, sd=1.5)
 
@@ -37,8 +35,8 @@ nba_ws <- (ncaa_40pts * ncaa_40pts_factor_to_ws) +
   (ncaa_height_interactor_factor * (ncaa_height * ncaa_40pts * 0.1)) +
   error_term
 
-numerical_position <- nba_ws - (ncaa_heih)*0.01 - ncaa_assist_pct
-
+numerical_position <- nba_ws - (ncaa_height)*0.01 - ncaa_assist_pct
+ncaa_position <- cut(numerical_position, breaks = c(-Inf, 60, 110, Inf), labels = c("Guard", "Forward", "Center"))
 #Checking integrations
 
 # Basic Linear Regression
@@ -52,7 +50,7 @@ mult_lm <- lm(nba_ws ~ (ncaa_40pts * ncaa_height) + ncaa_assist_pct + ncaa_turno
 summary(mult_lm)
 
 # Multiple with categorical variables
-categorical_lm <- lm(nba_48pts ~ ncaa_40pts + ncaa_position)
+categorical_lm <- lm(nba_ws ~ ncaa_40pts + ncaa_position)
 summary(categorical_lm)
 intercepts <- c(coef(categorical_lm)["(Intercept)"],
                 coef(categorical_lm)["(Intercept)"] + coef(categorical_lm)["ncaa_positionForward"],
