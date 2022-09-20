@@ -15,5 +15,4 @@
 #'   \item{NBA_48pts}{Player points per game in the NBA.}
 #'   \item{NBA_winshare}{Player WinShare in the NBA.}
 #' }
-#' @source \url{}
 "bb.draft.development"
