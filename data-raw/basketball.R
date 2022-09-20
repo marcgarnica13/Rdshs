@@ -54,22 +54,22 @@ categorical_lm <- lm(nba_ws ~ ncaa_40pts + ncaa_position)
 summary(categorical_lm)
 intercepts <- c(coef(categorical_lm)["(Intercept)"],
                 coef(categorical_lm)["(Intercept)"] + coef(categorical_lm)["ncaa_positionForward"],
-                coef(categorical_lm)["(Intercept)"] + coef(categorical_lm)["ncaa_positionGuard"])
+                coef(categorical_lm)["(Intercept)"] + coef(categorical_lm)["ncaa_positionCenter"])
 lines.df <- data.frame(intercepts = intercepts,
                        slopes = rep(coef(categorical_lm)["ncaa_40pts"], 3),
                        position = c("Guard","Forward","Center"))
 
-qplot(x = ncaa_40pts, y = nba_48pts, color=ncaa_position) +
+qplot(x = ncaa_40pts, y = nba_ws, color=ncaa_position) +
   geom_abline(aes(
     intercept = intercepts,
     slope = slopes,
     color=c("Guard","Forward","Center")), data = lines.df)
 
-qplot(x = ncaa_40pts, y = nba_48pts, color = ncaa_position) +
+qplot(x = ncaa_40pts, y = nba_ws, color = ncaa_position) +
   stat_smooth(method = "lm", se = FALSE, fullrange = TRUE)
 
 # Dataframe for Linear Regression
-basketball.draft.development <- data.frame(
+bb.draft.development <- data.frame(
   player_id = c(1:200),
   player_height = ncaa_height,
   player_position = ncaa_position,
@@ -81,4 +81,4 @@ basketball.draft.development <- data.frame(
   NBA_winshare = nba_ws
 )
 
-usethis::use_data(basketball.draft.development, overwrite = TRUE)
+usethis::use_data(bb.draft.development, overwrite = TRUE)

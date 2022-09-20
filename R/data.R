@@ -1,7 +1,7 @@
-#' Prices of 50,000 round cut diamonds.
+#' NBA MOCK draft.
 #'
-#' A dataset containing the prices and other attributes of almost 54,000
-#' diamonds.
+#' A dataset containing players that played in college and in the NBA.
+#'
 #'
 #' @format A data frame with 200 rows and 9 variables:
 #' \describe{
@@ -15,5 +15,5 @@
 #'   \item{NBA_48pts}{Player points per game in the NBA.}
 #'   \item{NBA_winshare}{Player WinShare in the NBA.}
 #' }
-#' @source \url{http://www.diamondse.info/}
-"basketball.draft.development"
+#' @source \url{}
+"bb.draft.development"
