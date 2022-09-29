@@ -18,9 +18,6 @@ A data frame with 200 rows and 9 variables:
 \item{NBA_winshare}{Player WinShare in the NBA.}
 }
 }
-\source{
-\url{}
-}
 \usage{
 bb.draft.development
 }

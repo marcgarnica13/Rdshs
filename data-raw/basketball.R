@@ -82,3 +82,6 @@ bb.draft.development <- data.frame(
 )
 
 usethis::use_data(bb.draft.development, overwrite = TRUE)
+
+#bb.nba.1418 <- read.csv("data-raw/nba_data.csv", stringsAsFactors = TRUE)
+#usethis::use_data(bb.nba.1418, overwrite = TRUE)

@@ -1,0 +1,381 @@
+"match_id","home","away","home_goals","away_goals","sum_pass_length","mn_pass_length","goals"
+"eng_ARS_BOU_1718","Arsenal","AFC Bournemouth",3,0,19801,21,3
+"eng_ARS_BRH_1718","Arsenal","Brighton & Hove Albion",2,0,18206,18,2
+"eng_ARS_BUR_1718","Arsenal","Burnley",5,0,20226,20,5
+"eng_ARS_CHE_1718","Arsenal","Chelsea",2,2,19762,20,4
+"eng_ARS_CRY_1718","Arsenal","Crystal Palace",4,1,21088,18,5
+"eng_ARS_EVE_1718","Arsenal","Everton",5,1,17023,19,6
+"eng_ARS_HUD_1718","Arsenal","Huddersfield Town",5,0,20638,19,5
+"eng_ARS_LEI_1718","Arsenal","Leicester City",4,3,17445,21,7
+"eng_ARS_LIV_1718","Arsenal","Liverpool",3,3,18784,21,6
+"eng_ARS_MCI_1718","Arsenal","Manchester City",0,3,20777,18,3
+"eng_ARS_MUN_1718","Arsenal","Manchester United",1,3,15519,19,4
+"eng_ARS_NEW_1718","Arsenal","Newcastle United",1,0,19398,20,1
+"eng_ARS_SOU_1718","Arsenal","Southampton",3,2,19295,19,5
+"eng_ARS_STO_1718","Arsenal","Stoke City",3,0,16412,19,3
+"eng_ARS_SWA_1718","Arsenal","Swansea City",2,1,20768,20,3
+"eng_ARS_TOT_1718","Arsenal","Tottenham Hotspur",2,0,19593,22,2
+"eng_ARS_WAT_1718","Arsenal","Watford",3,0,14368,18,3
+"eng_ARS_WBA_1718","Arsenal","West Bromwich Albion",2,0,17066,20,2
+"eng_ARS_WHU_1718","Arsenal","West Ham United",4,1,16776,19,5
+"eng_BOU_ARS_1718","AFC Bournemouth","Arsenal",2,1,16275,19,3
+"eng_BOU_BRH_1718","AFC Bournemouth","Brighton & Hove Albion",2,1,20057,20,3
+"eng_BOU_BUR_1718","AFC Bournemouth","Burnley",1,2,18592,21,3
+"eng_BOU_CHE_1718","AFC Bournemouth","Chelsea",0,1,21052,19,1
+"eng_BOU_CRY_1718","AFC Bournemouth","Crystal Palace",2,2,18098,20,4
+"eng_BOU_EVE_1718","AFC Bournemouth","Everton",2,1,16794,20,3
+"eng_BOU_HUD_1718","AFC Bournemouth","Huddersfield Town",4,0,15742,21,4
+"eng_BOU_LEI_1718","AFC Bournemouth","Leicester City",0,0,16726,20,0
+"eng_BOU_LIV_1718","AFC Bournemouth","Liverpool",0,4,22615,20,4
+"eng_BOU_MCI_1718","AFC Bournemouth","Manchester City",1,2,16996,21,3
+"eng_BOU_MUN_1718","AFC Bournemouth","Manchester United",0,2,18088,19,2
+"eng_BOU_NEW_1718","AFC Bournemouth","Newcastle United",2,2,17542,21,4
+"eng_BOU_SOU_1718","AFC Bournemouth","Southampton",1,1,17120,20,2
+"eng_BOU_STO_1718","AFC Bournemouth","Stoke City",2,1,15207,21,3
+"eng_BOU_SWA_1718","AFC Bournemouth","Swansea City",1,0,15481,20,1
+"eng_BOU_TOT_1718","AFC Bournemouth","Tottenham Hotspur",1,4,18427,22,5
+"eng_BOU_WAT_1718","AFC Bournemouth","Watford",0,2,18490,24,2
+"eng_BOU_WBA_1718","AFC Bournemouth","West Bromwich Albion",2,1,19611,22,3
+"eng_BOU_WHU_1718","AFC Bournemouth","West Ham United",3,3,13940,20,6
+"eng_BRH_ARS_1718","Brighton & Hove Albion","Arsenal",2,1,15251,18,3
+"eng_BRH_BOU_1718","Brighton & Hove Albion","AFC Bournemouth",2,2,14608,20,4
+"eng_BRH_BUR_1718","Brighton & Hove Albion","Burnley",0,0,18155,23,0
+"eng_BRH_CHE_1718","Brighton & Hove Albion","Chelsea",0,4,17184,20,4
+"eng_BRH_CRY_1718","Brighton & Hove Albion","Crystal Palace",0,0,17126,21,0
+"eng_BRH_EVE_1718","Brighton & Hove Albion","Everton",1,1,17601,22,2
+"eng_BRH_HUD_1718","Brighton & Hove Albion","Huddersfield Town",1,1,16568,20,2
+"eng_BRH_LEI_1718","Brighton & Hove Albion","Leicester City",0,2,15994,20,2
+"eng_BRH_LIV_1718","Brighton & Hove Albion","Liverpool",1,5,21333,19,6
+"eng_BRH_MCI_1718","Brighton & Hove Albion","Manchester City",0,2,17851,19,2
+"eng_BRH_MUN_1718","Brighton & Hove Albion","Manchester United",1,0,17845,19,1
+"eng_BRH_NEW_1718","Brighton & Hove Albion","Newcastle United",1,0,17311,20,1
+"eng_BRH_SOU_1718","Brighton & Hove Albion","Southampton",1,1,19075,21,2
+"eng_BRH_STO_1718","Brighton & Hove Albion","Stoke City",2,2,16809,21,4
+"eng_BRH_SWA_1718","Brighton & Hove Albion","Swansea City",4,1,16045,20,5
+"eng_BRH_TOT_1718","Brighton & Hove Albion","Tottenham Hotspur",1,1,18781,19,2
+"eng_BRH_WAT_1718","Brighton & Hove Albion","Watford",1,0,15361,20,1
+"eng_BRH_WBA_1718","Brighton & Hove Albion","West Bromwich Albion",3,1,18798,21,4
+"eng_BRH_WHU_1718","Brighton & Hove Albion","West Ham United",3,1,16492,21,4
+"eng_BUR_ARS_1718","Burnley","Arsenal",0,1,18697,20,1
+"eng_BUR_BOU_1718","Burnley","AFC Bournemouth",1,2,16346,20,3
+"eng_BUR_BRH_1718","Burnley","Brighton & Hove Albion",0,0,15862,22,0
+"eng_BUR_CHE_1718","Burnley","Chelsea",1,2,20074,21,3
+"eng_BUR_CRY_1718","Burnley","Crystal Palace",1,0,14348,21,1
+"eng_BUR_EVE_1718","Burnley","Everton",2,1,16562,23,3
+"eng_BUR_HUD_1718","Burnley","Huddersfield Town",0,0,17678,21,0
+"eng_BUR_LEI_1718","Burnley","Leicester City",2,1,14636,21,3
+"eng_BUR_LIV_1718","Burnley","Liverpool",1,2,19167,23,3
+"eng_BUR_MCI_1718","Burnley","Manchester City",1,1,19338,21,2
+"eng_BUR_MUN_1718","Burnley","Manchester United",0,1,16843,20,1
+"eng_BUR_NEW_1718","Burnley","Newcastle United",1,0,20298,22,1
+"eng_BUR_SOU_1718","Burnley","Southampton",1,1,15714,22,2
+"eng_BUR_STO_1718","Burnley","Stoke City",1,0,16502,24,1
+"eng_BUR_SWA_1718","Burnley","Swansea City",2,0,16112,22,2
+"eng_BUR_TOT_1718","Burnley","Tottenham Hotspur",0,3,17117,21,3
+"eng_BUR_WAT_1718","Burnley","Watford",1,0,14973,20,1
+"eng_BUR_WBA_1718","Burnley","West Bromwich Albion",0,1,15806,24,1
+"eng_BUR_WHU_1718","Burnley","West Ham United",1,1,14990,23,2
+"eng_CHE_ARS_1718","Chelsea","Arsenal",0,0,21147,21,0
+"eng_CHE_BOU_1718","Chelsea","AFC Bournemouth",0,3,18293,20,3
+"eng_CHE_BRH_1718","Chelsea","Brighton & Hove Albion",2,0,18871,19,2
+"eng_CHE_BUR_1718","Chelsea","Burnley",2,3,17688,22,5
+"eng_CHE_CRY_1718","Chelsea","Crystal Palace",2,1,18224,20,3
+"eng_CHE_EVE_1718","Chelsea","Everton",2,0,20073,20,2
+"eng_CHE_HUD_1718","Chelsea","Huddersfield Town",1,1,20389,20,2
+"eng_CHE_LEI_1718","Chelsea","Leicester City",0,0,19366,22,0
+"eng_CHE_LIV_1718","Chelsea","Liverpool",1,0,20829,19,1
+"eng_CHE_MCI_1718","Chelsea","Manchester City",0,1,19932,19,1
+"eng_CHE_MUN_1718","Chelsea","Manchester United",1,0,15844,20,1
+"eng_CHE_NEW_1718","Chelsea","Newcastle United",3,1,21963,20,4
+"eng_CHE_SOU_1718","Chelsea","Southampton",1,0,19617,20,1
+"eng_CHE_STO_1718","Chelsea","Stoke City",5,0,21897,20,5
+"eng_CHE_SWA_1718","Chelsea","Swansea City",1,0,19555,20,1
+"eng_CHE_TOT_1718","Chelsea","Tottenham Hotspur",1,3,19983,21,4
+"eng_CHE_WAT_1718","Chelsea","Watford",4,2,15921,20,6
+"eng_CHE_WBA_1718","Chelsea","West Bromwich Albion",3,0,18336,19,3
+"eng_CHE_WHU_1718","Chelsea","West Ham United",1,1,19083,20,2
+"eng_CRY_ARS_1718","Crystal Palace","Arsenal",2,3,17782,19,5
+"eng_CRY_BOU_1718","Crystal Palace","AFC Bournemouth",2,2,15689,21,4
+"eng_CRY_BRH_1718","Crystal Palace","Brighton & Hove Albion",3,2,14850,22,5
+"eng_CRY_BUR_1718","Crystal Palace","Burnley",1,0,14402,22,1
+"eng_CRY_CHE_1718","Crystal Palace","Chelsea",2,1,19753,21,3
+"eng_CRY_EVE_1718","Crystal Palace","Everton",2,2,15848,21,4
+"eng_CRY_HUD_1718","Crystal Palace","Huddersfield Town",0,3,14233,22,3
+"eng_CRY_LEI_1718","Crystal Palace","Leicester City",5,0,14833,19,5
+"eng_CRY_LIV_1718","Crystal Palace","Liverpool",1,2,18578,19,3
+"eng_CRY_MCI_1718","Crystal Palace","Manchester City",0,0,15743,20,0
+"eng_CRY_MUN_1718","Crystal Palace","Manchester United",2,3,17324,20,5
+"eng_CRY_NEW_1718","Crystal Palace","Newcastle United",1,1,15355,21,2
+"eng_CRY_SOU_1718","Crystal Palace","Southampton",0,1,18669,22,1
+"eng_CRY_STO_1718","Crystal Palace","Stoke City",2,1,17393,20,3
+"eng_CRY_SWA_1718","Crystal Palace","Swansea City",0,2,20661,23,2
+"eng_CRY_TOT_1718","Crystal Palace","Tottenham Hotspur",0,1,16505,20,1
+"eng_CRY_WAT_1718","Crystal Palace","Watford",2,1,14231,20,3
+"eng_CRY_WBA_1718","Crystal Palace","West Bromwich Albion",2,0,16986,19,2
+"eng_CRY_WHU_1718","Crystal Palace","West Ham United",2,2,16223,23,4
+"eng_EVE_ARS_1718","Everton","Arsenal",2,5,17059,20,7
+"eng_EVE_BOU_1718","Everton","AFC Bournemouth",2,1,17640,22,3
+"eng_EVE_BRH_1718","Everton","Brighton & Hove Albion",2,0,14461,21,2
+"eng_EVE_BUR_1718","Everton","Burnley",0,1,18376,23,1
+"eng_EVE_CHE_1718","Everton","Chelsea",0,0,19808,20,0
+"eng_EVE_CRY_1718","Everton","Crystal Palace",3,1,14580,21,4
+"eng_EVE_HUD_1718","Everton","Huddersfield Town",2,0,16166,22,2
+"eng_EVE_LEI_1718","Everton","Leicester City",2,1,16450,22,3
+"eng_EVE_LIV_1718","Everton","Liverpool",0,0,17920,21,0
+"eng_EVE_MCI_1718","Everton","Manchester City",1,3,19778,18,4
+"eng_EVE_MUN_1718","Everton","Manchester United",0,2,18321,20,2
+"eng_EVE_NEW_1718","Everton","Newcastle United",1,0,17354,21,1
+"eng_EVE_SOU_1718","Everton","Southampton",1,1,16125,22,2
+"eng_EVE_STO_1718","Everton","Stoke City",1,0,15869,21,1
+"eng_EVE_SWA_1718","Everton","Swansea City",3,1,16408,20,4
+"eng_EVE_TOT_1718","Everton","Tottenham Hotspur",0,3,20860,23,3
+"eng_EVE_WAT_1718","Everton","Watford",3,2,15474,21,5
+"eng_EVE_WBA_1718","Everton","West Bromwich Albion",1,1,15233,20,2
+"eng_EVE_WHU_1718","Everton","West Ham United",4,0,19201,21,4
+"eng_HUD_ARS_1718","Huddersfield Town","Arsenal",0,1,16841,19,1
+"eng_HUD_BOU_1718","Huddersfield Town","AFC Bournemouth",4,1,16966,21,5
+"eng_HUD_BRH_1718","Huddersfield Town","Brighton & Hove Albion",2,0,18566,22,2
+"eng_HUD_BUR_1718","Huddersfield Town","Burnley",0,0,13917,23,0
+"eng_HUD_CHE_1718","Huddersfield Town","Chelsea",1,3,23423,20,4
+"eng_HUD_CRY_1718","Huddersfield Town","Crystal Palace",0,2,13772,18,2
+"eng_HUD_EVE_1718","Huddersfield Town","Everton",0,2,18539,22,2
+"eng_HUD_LEI_1718","Huddersfield Town","Leicester City",1,1,19496,24,2
+"eng_HUD_LIV_1718","Huddersfield Town","Liverpool",0,3,23175,20,3
+"eng_HUD_MCI_1718","Huddersfield Town","Manchester City",1,2,15674,18,3
+"eng_HUD_MUN_1718","Huddersfield Town","Manchester United",2,1,17009,18,3
+"eng_HUD_NEW_1718","Huddersfield Town","Newcastle United",1,0,17022,21,1
+"eng_HUD_SOU_1718","Huddersfield Town","Southampton",0,0,19399,23,0
+"eng_HUD_STO_1718","Huddersfield Town","Stoke City",1,1,16572,20,2
+"eng_HUD_SWA_1718","Huddersfield Town","Swansea City",0,0,17482,21,0
+"eng_HUD_TOT_1718","Huddersfield Town","Tottenham Hotspur",0,4,19268,21,4
+"eng_HUD_WAT_1718","Huddersfield Town","Watford",1,0,16641,22,1
+"eng_HUD_WBA_1718","Huddersfield Town","West Bromwich Albion",1,0,17529,22,1
+"eng_HUD_WHU_1718","Huddersfield Town","West Ham United",1,4,16370,20,5
+"eng_LEI_ARS_1718","Leicester City","Arsenal",3,1,15270,20,4
+"eng_LEI_BOU_1718","Leicester City","AFC Bournemouth",1,1,15935,21,2
+"eng_LEI_BRH_1718","Leicester City","Brighton & Hove Albion",2,0,20994,23,2
+"eng_LEI_BUR_1718","Leicester City","Burnley",1,0,16110,21,1
+"eng_LEI_CHE_1718","Leicester City","Chelsea",1,2,17726,21,3
+"eng_LEI_CRY_1718","Leicester City","Crystal Palace",0,3,15038,20,3
+"eng_LEI_EVE_1718","Leicester City","Everton",2,0,16156,21,2
+"eng_LEI_HUD_1718","Leicester City","Huddersfield Town",3,0,18235,20,3
+"eng_LEI_LIV_1718","Leicester City","Liverpool",2,3,15933,21,5
+"eng_LEI_MCI_1718","Leicester City","Manchester City",0,2,18330,19,2
+"eng_LEI_MUN_1718","Leicester City","Manchester United",2,2,16754,20,4
+"eng_LEI_NEW_1718","Leicester City","Newcastle United",1,2,16263,22,3
+"eng_LEI_SOU_1718","Leicester City","Southampton",0,0,16067,20,0
+"eng_LEI_STO_1718","Leicester City","Stoke City",1,1,15809,24,2
+"eng_LEI_SWA_1718","Leicester City","Swansea City",1,1,16800,20,2
+"eng_LEI_TOT_1718","Leicester City","Tottenham Hotspur",2,1,16677,19,3
+"eng_LEI_WAT_1718","Leicester City","Watford",2,0,14811,20,2
+"eng_LEI_WBA_1718","Leicester City","West Bromwich Albion",1,1,16983,21,2
+"eng_LEI_WHU_1718","Leicester City","West Ham United",0,2,16257,21,2
+"eng_LIV_ARS_1718","Liverpool","Arsenal",4,0,20640,21,4
+"eng_LIV_BOU_1718","Liverpool","AFC Bournemouth",3,0,18750,19,3
+"eng_LIV_BRH_1718","Liverpool","Brighton & Hove Albion",4,0,19278,20,4
+"eng_LIV_BUR_1718","Liverpool","Burnley",1,1,19140,21,2
+"eng_LIV_CHE_1718","Liverpool","Chelsea",1,1,21696,20,2
+"eng_LIV_CRY_1718","Liverpool","Crystal Palace",1,0,20438,22,1
+"eng_LIV_EVE_1718","Liverpool","Everton",1,1,19386,22,2
+"eng_LIV_HUD_1718","Liverpool","Huddersfield Town",3,0,19421,20,3
+"eng_LIV_LEI_1718","Liverpool","Leicester City",2,1,17634,20,3
+"eng_LIV_MCI_1718","Liverpool","Manchester City",4,3,20069,20,7
+"eng_LIV_MUN_1718","Liverpool","Manchester United",0,0,18669,21,0
+"eng_LIV_NEW_1718","Liverpool","Newcastle United",2,0,21330,21,2
+"eng_LIV_SOU_1718","Liverpool","Southampton",3,0,18006,20,3
+"eng_LIV_STO_1718","Liverpool","Stoke City",0,0,17562,21,0
+"eng_LIV_SWA_1718","Liverpool","Swansea City",5,0,20561,20,5
+"eng_LIV_TOT_1718","Liverpool","Tottenham Hotspur",2,2,18702,22,4
+"eng_LIV_WAT_1718","Liverpool","Watford",5,0,18978,20,5
+"eng_LIV_WBA_1718","Liverpool","West Bromwich Albion",0,0,20204,21,0
+"eng_LIV_WHU_1718","Liverpool","West Ham United",4,1,19252,19,5
+"eng_MCI_ARS_1718","Manchester City","Arsenal",3,1,19804,19,4
+"eng_MCI_BOU_1718","Manchester City","AFC Bournemouth",4,0,19166,17,4
+"eng_MCI_BRH_1718","Manchester City","Brighton & Hove Albion",3,1,18707,17,4
+"eng_MCI_BUR_1718","Manchester City","Burnley",3,0,19707,20,3
+"eng_MCI_CHE_1718","Manchester City","Chelsea",1,0,22635,17,1
+"eng_MCI_CRY_1718","Manchester City","Crystal Palace",5,0,19455,20,5
+"eng_MCI_EVE_1718","Manchester City","Everton",1,1,17781,22,2
+"eng_MCI_HUD_1718","Manchester City","Huddersfield Town",0,0,16755,19,0
+"eng_MCI_LEI_1718","Manchester City","Leicester City",5,1,18834,20,6
+"eng_MCI_LIV_1718","Manchester City","Liverpool",5,0,21394,20,5
+"eng_MCI_MUN_1718","Manchester City","Manchester United",2,3,17151,20,5
+"eng_MCI_NEW_1718","Manchester City","Newcastle United",3,1,17841,19,4
+"eng_MCI_SOU_1718","Manchester City","Southampton",2,1,17815,18,3
+"eng_MCI_STO_1718","Manchester City","Stoke City",7,2,19812,19,9
+"eng_MCI_SWA_1718","Manchester City","Swansea City",5,0,20347,17,5
+"eng_MCI_TOT_1718","Manchester City","Tottenham Hotspur",4,1,15563,20,5
+"eng_MCI_WAT_1718","Manchester City","Watford",3,1,19529,18,4
+"eng_MCI_WBA_1718","Manchester City","West Bromwich Albion",3,0,17280,20,3
+"eng_MCI_WHU_1718","Manchester City","West Ham United",2,1,18832,20,3
+"eng_MUN_ARS_1718","Manchester United","Arsenal",2,1,19053,18,3
+"eng_MUN_BOU_1718","Manchester United","AFC Bournemouth",1,0,18430,19,1
+"eng_MUN_BRH_1718","Manchester United","Brighton & Hove Albion",1,0,20373,21,1
+"eng_MUN_BUR_1718","Manchester United","Burnley",2,2,17659,21,4
+"eng_MUN_CHE_1718","Manchester United","Chelsea",2,1,17102,18,3
+"eng_MUN_CRY_1718","Manchester United","Crystal Palace",4,0,18389,20,4
+"eng_MUN_EVE_1718","Manchester United","Everton",4,0,18803,20,4
+"eng_MUN_HUD_1718","Manchester United","Huddersfield Town",2,0,19305,19,2
+"eng_MUN_LEI_1718","Manchester United","Leicester City",2,0,19597,21,2
+"eng_MUN_LIV_1718","Manchester United","Liverpool",2,1,16426,20,3
+"eng_MUN_MCI_1718","Manchester United","Manchester City",1,2,16380,19,3
+"eng_MUN_NEW_1718","Manchester United","Newcastle United",4,1,19816,21,5
+"eng_MUN_SOU_1718","Manchester United","Southampton",0,0,18059,20,0
+"eng_MUN_STO_1718","Manchester United","Stoke City",3,0,18087,19,3
+"eng_MUN_SWA_1718","Manchester United","Swansea City",2,0,20362,19,2
+"eng_MUN_TOT_1718","Manchester United","Tottenham Hotspur",1,0,17371,20,1
+"eng_MUN_WAT_1718","Manchester United","Watford",1,0,16783,19,1
+"eng_MUN_WBA_1718","Manchester United","West Bromwich Albion",0,1,19556,19,1
+"eng_MUN_WHU_1718","Manchester United","West Ham United",4,0,17345,21,4
+"eng_NEW_ARS_1718","Newcastle United","Arsenal",2,1,16638,18,3
+"eng_NEW_BOU_1718","Newcastle United","AFC Bournemouth",0,1,14718,21,1
+"eng_NEW_BRH_1718","Newcastle United","Brighton & Hove Albion",0,0,18015,20,0
+"eng_NEW_BUR_1718","Newcastle United","Burnley",1,1,15717,22,2
+"eng_NEW_CHE_1718","Newcastle United","Chelsea",3,0,18072,19,3
+"eng_NEW_CRY_1718","Newcastle United","Crystal Palace",1,0,15547,20,1
+"eng_NEW_EVE_1718","Newcastle United","Everton",0,1,18378,21,1
+"eng_NEW_HUD_1718","Newcastle United","Huddersfield Town",1,0,17287,20,1
+"eng_NEW_LEI_1718","Newcastle United","Leicester City",2,3,15415,19,5
+"eng_NEW_LIV_1718","Newcastle United","Liverpool",1,1,17399,20,2
+"eng_NEW_MCI_1718","Newcastle United","Manchester City",0,1,17792,18,1
+"eng_NEW_MUN_1718","Newcastle United","Manchester United",1,0,18338,20,1
+"eng_NEW_SOU_1718","Newcastle United","Southampton",3,0,14968,20,3
+"eng_NEW_STO_1718","Newcastle United","Stoke City",2,1,15466,24,3
+"eng_NEW_SWA_1718","Newcastle United","Swansea City",1,1,17409,22,2
+"eng_NEW_TOT_1718","Newcastle United","Tottenham Hotspur",0,2,18519,20,2
+"eng_NEW_WAT_1718","Newcastle United","Watford",0,3,18277,21,3
+"eng_NEW_WBA_1718","Newcastle United","West Bromwich Albion",0,1,17653,20,1
+"eng_NEW_WHU_1718","Newcastle United","West Ham United",3,0,15272,22,3
+"eng_SOU_ARS_1718","Southampton","Arsenal",1,1,20385,18,2
+"eng_SOU_BOU_1718","Southampton","AFC Bournemouth",2,1,16858,20,3
+"eng_SOU_BRH_1718","Southampton","Brighton & Hove Albion",1,1,17296,20,2
+"eng_SOU_BUR_1718","Southampton","Burnley",0,1,19614,22,1
+"eng_SOU_CHE_1718","Southampton","Chelsea",2,3,15723,18,5
+"eng_SOU_CRY_1718","Southampton","Crystal Palace",1,2,17967,21,3
+"eng_SOU_EVE_1718","Southampton","Everton",4,1,18910,20,5
+"eng_SOU_HUD_1718","Southampton","Huddersfield Town",1,1,14360,21,2
+"eng_SOU_LEI_1718","Southampton","Leicester City",1,4,16216,21,5
+"eng_SOU_LIV_1718","Southampton","Liverpool",0,2,18947,19,2
+"eng_SOU_MCI_1718","Southampton","Manchester City",0,1,15892,19,1
+"eng_SOU_MUN_1718","Southampton","Manchester United",0,1,18182,20,1
+"eng_SOU_NEW_1718","Southampton","Newcastle United",2,2,20414,22,4
+"eng_SOU_STO_1718","Southampton","Stoke City",0,0,13323,22,0
+"eng_SOU_SWA_1718","Southampton","Swansea City",0,0,17841,21,0
+"eng_SOU_TOT_1718","Southampton","Tottenham Hotspur",1,1,15850,20,2
+"eng_SOU_WAT_1718","Southampton","Watford",0,2,16729,22,2
+"eng_SOU_WBA_1718","Southampton","West Bromwich Albion",1,0,16873,20,1
+"eng_SOU_WHU_1718","Southampton","West Ham United",3,2,17353,21,5
+"eng_STO_ARS_1718","Stoke City","Arsenal",1,0,18625,21,1
+"eng_STO_BOU_1718","Stoke City","AFC Bournemouth",1,2,16405,22,3
+"eng_STO_BRH_1718","Stoke City","Brighton & Hove Albion",1,1,16459,21,2
+"eng_STO_BUR_1718","Stoke City","Burnley",1,1,17608,24,2
+"eng_STO_CHE_1718","Stoke City","Chelsea",0,4,20004,22,4
+"eng_STO_CRY_1718","Stoke City","Crystal Palace",1,2,13000,20,3
+"eng_STO_EVE_1718","Stoke City","Everton",1,2,14671,20,3
+"eng_STO_HUD_1718","Stoke City","Huddersfield Town",2,0,12922,23,2
+"eng_STO_LEI_1718","Stoke City","Leicester City",2,2,14829,20,4
+"eng_STO_LIV_1718","Stoke City","Liverpool",0,3,17697,21,3
+"eng_STO_MCI_1718","Stoke City","Manchester City",0,2,19679,19,2
+"eng_STO_MUN_1718","Stoke City","Manchester United",2,2,18286,21,4
+"eng_STO_NEW_1718","Stoke City","Newcastle United",0,1,16933,23,1
+"eng_STO_SOU_1718","Stoke City","Southampton",2,1,17316,21,3
+"eng_STO_SWA_1718","Stoke City","Swansea City",2,1,17127,21,3
+"eng_STO_TOT_1718","Stoke City","Tottenham Hotspur",1,2,15724,20,3
+"eng_STO_WAT_1718","Stoke City","Watford",0,0,11597,22,0
+"eng_STO_WBA_1718","Stoke City","West Bromwich Albion",3,1,15162,20,4
+"eng_STO_WHU_1718","Stoke City","West Ham United",0,3,14469,19,3
+"eng_SWA_ARS_1718","Swansea City","Arsenal",3,1,20990,18,4
+"eng_SWA_BOU_1718","Swansea City","AFC Bournemouth",0,0,17793,20,0
+"eng_SWA_BRH_1718","Swansea City","Brighton & Hove Albion",0,1,16617,21,1
+"eng_SWA_BUR_1718","Swansea City","Burnley",1,0,17209,22,1
+"eng_SWA_CHE_1718","Swansea City","Chelsea",0,1,21493,19,1
+"eng_SWA_CRY_1718","Swansea City","Crystal Palace",1,1,16913,19,2
+"eng_SWA_EVE_1718","Swansea City","Everton",1,1,18610,22,2
+"eng_SWA_HUD_1718","Swansea City","Huddersfield Town",2,0,18112,21,2
+"eng_SWA_LEI_1718","Swansea City","Leicester City",1,2,16645,20,3
+"eng_SWA_LIV_1718","Swansea City","Liverpool",1,0,19898,20,1
+"eng_SWA_MCI_1718","Swansea City","Manchester City",0,4,18703,18,4
+"eng_SWA_MUN_1718","Swansea City","Manchester United",0,4,18213,19,4
+"eng_SWA_NEW_1718","Swansea City","Newcastle United",0,1,18242,22,1
+"eng_SWA_SOU_1718","Swansea City","Southampton",0,1,15928,22,1
+"eng_SWA_STO_1718","Swansea City","Stoke City",1,2,18004,19,3
+"eng_SWA_TOT_1718","Swansea City","Tottenham Hotspur",0,2,18820,20,2
+"eng_SWA_WAT_1718","Swansea City","Watford",1,2,16896,21,3
+"eng_SWA_WBA_1718","Swansea City","West Bromwich Albion",1,0,15011,19,1
+"eng_SWA_WHU_1718","Swansea City","West Ham United",4,1,17663,20,5
+"eng_TOT_ARS_1718","Tottenham Hotspur","Arsenal",1,0,20578,21,1
+"eng_TOT_BOU_1718","Tottenham Hotspur","AFC Bournemouth",1,0,18059,20,1
+"eng_TOT_BRH_1718","Tottenham Hotspur","Brighton & Hove Albion",2,0,19335,20,2
+"eng_TOT_BUR_1718","Tottenham Hotspur","Burnley",1,1,18941,22,2
+"eng_TOT_CHE_1718","Tottenham Hotspur","Chelsea",1,2,17903,22,3
+"eng_TOT_CRY_1718","Tottenham Hotspur","Crystal Palace",1,0,17989,21,1
+"eng_TOT_EVE_1718","Tottenham Hotspur","Everton",4,0,17994,20,4
+"eng_TOT_HUD_1718","Tottenham Hotspur","Huddersfield Town",2,0,19201,18,2
+"eng_TOT_LEI_1718","Tottenham Hotspur","Leicester City",5,4,14022,20,9
+"eng_TOT_LIV_1718","Tottenham Hotspur","Liverpool",4,1,20165,21,5
+"eng_TOT_MCI_1718","Tottenham Hotspur","Manchester City",1,3,18728,20,4
+"eng_TOT_MUN_1718","Tottenham Hotspur","Manchester United",2,0,18283,19,2
+"eng_TOT_NEW_1718","Tottenham Hotspur","Newcastle United",1,0,17537,21,1
+"eng_TOT_SOU_1718","Tottenham Hotspur","Southampton",5,2,15722,20,7
+"eng_TOT_STO_1718","Tottenham Hotspur","Stoke City",5,1,17775,21,6
+"eng_TOT_SWA_1718","Tottenham Hotspur","Swansea City",0,0,21141,22,0
+"eng_TOT_WAT_1718","Tottenham Hotspur","Watford",2,0,16544,19,2
+"eng_TOT_WBA_1718","Tottenham Hotspur","West Bromwich Albion",1,1,18928,20,2
+"eng_TOT_WHU_1718","Tottenham Hotspur","West Ham United",1,1,17826,20,2
+"eng_WAT_ARS_1718","Watford","Arsenal",2,1,20180,21,3
+"eng_WAT_BOU_1718","Watford","AFC Bournemouth",2,2,16847,21,4
+"eng_WAT_BRH_1718","Watford","Brighton & Hove Albion",0,0,16436,23,0
+"eng_WAT_BUR_1718","Watford","Burnley",1,2,15380,22,3
+"eng_WAT_CHE_1718","Watford","Chelsea",4,1,17674,20,5
+"eng_WAT_CRY_1718","Watford","Crystal Palace",0,0,12752,20,0
+"eng_WAT_EVE_1718","Watford","Everton",1,0,15828,22,1
+"eng_WAT_HUD_1718","Watford","Huddersfield Town",1,4,14910,21,5
+"eng_WAT_LEI_1718","Watford","Leicester City",2,1,14170,21,3
+"eng_WAT_LIV_1718","Watford","Liverpool",3,3,17985,22,6
+"eng_WAT_MCI_1718","Watford","Manchester City",0,6,18362,20,6
+"eng_WAT_MUN_1718","Watford","Manchester United",2,4,16381,20,6
+"eng_WAT_NEW_1718","Watford","Newcastle United",2,1,18605,20,3
+"eng_WAT_SOU_1718","Watford","Southampton",2,2,15265,19,4
+"eng_WAT_STO_1718","Watford","Stoke City",0,1,16396,21,1
+"eng_WAT_SWA_1718","Watford","Swansea City",1,2,18674,20,3
+"eng_WAT_TOT_1718","Watford","Tottenham Hotspur",1,1,15961,21,2
+"eng_WAT_WBA_1718","Watford","West Bromwich Albion",1,0,15601,22,1
+"eng_WAT_WHU_1718","Watford","West Ham United",2,0,20492,20,2
+"eng_WBA_ARS_1718","West Bromwich Albion","Arsenal",1,1,20178,21,2
+"eng_WBA_BOU_1718","West Bromwich Albion","AFC Bournemouth",1,0,17522,21,1
+"eng_WBA_BRH_1718","West Bromwich Albion","Brighton & Hove Albion",2,0,16497,22,2
+"eng_WBA_BUR_1718","West Bromwich Albion","Burnley",1,2,19224,23,3
+"eng_WBA_CHE_1718","West Bromwich Albion","Chelsea",0,4,19627,21,4
+"eng_WBA_CRY_1718","West Bromwich Albion","Crystal Palace",0,0,16049,22,0
+"eng_WBA_EVE_1718","West Bromwich Albion","Everton",0,0,15747,23,0
+"eng_WBA_HUD_1718","West Bromwich Albion","Huddersfield Town",1,2,14567,21,3
+"eng_WBA_LEI_1718","West Bromwich Albion","Leicester City",1,4,16397,21,5
+"eng_WBA_LIV_1718","West Bromwich Albion","Liverpool",2,2,19395,22,4
+"eng_WBA_MCI_1718","West Bromwich Albion","Manchester City",2,3,20206,18,5
+"eng_WBA_MUN_1718","West Bromwich Albion","Manchester United",1,2,18536,19,3
+"eng_WBA_NEW_1718","West Bromwich Albion","Newcastle United",2,2,16591,21,4
+"eng_WBA_SOU_1718","West Bromwich Albion","Southampton",2,3,16712,21,5
+"eng_WBA_STO_1718","West Bromwich Albion","Stoke City",1,1,15921,22,2
+"eng_WBA_SWA_1718","West Bromwich Albion","Swansea City",1,1,19484,22,2
+"eng_WBA_TOT_1718","West Bromwich Albion","Tottenham Hotspur",1,0,16330,21,1
+"eng_WBA_WAT_1718","West Bromwich Albion","Watford",2,2,17461,22,4
+"eng_WBA_WHU_1718","West Bromwich Albion","West Ham United",0,0,17050,23,0
+"eng_WHU_ARS_1718","West Ham United","Arsenal",0,0,19444,20,0
+"eng_WHU_BOU_1718","West Ham United","AFC Bournemouth",1,1,16044,20,2
+"eng_WHU_BRH_1718","West Ham United","Brighton & Hove Albion",0,3,19460,21,3
+"eng_WHU_BUR_1718","West Ham United","Burnley",0,3,14886,20,3
+"eng_WHU_CHE_1718","West Ham United","Chelsea",1,0,18565,20,1
+"eng_WHU_CRY_1718","West Ham United","Crystal Palace",1,1,14680,20,2
+"eng_WHU_EVE_1718","West Ham United","Everton",3,1,15738,20,4
+"eng_WHU_HUD_1718","West Ham United","Huddersfield Town",2,0,15879,23,2
+"eng_WHU_LEI_1718","West Ham United","Leicester City",1,1,15677,21,2
+"eng_WHU_LIV_1718","West Ham United","Liverpool",1,4,18050,21,5
+"eng_WHU_MCI_1718","West Ham United","Manchester City",1,4,18832,17,5
+"eng_WHU_MUN_1718","West Ham United","Manchester United",0,0,16946,17,0
+"eng_WHU_NEW_1718","West Ham United","Newcastle United",2,3,13671,21,5
+"eng_WHU_SOU_1718","West Ham United","Southampton",3,0,14617,20,3
+"eng_WHU_STO_1718","West Ham United","Stoke City",1,1,14668,21,2
+"eng_WHU_SWA_1718","West Ham United","Swansea City",1,0,18975,22,1
+"eng_WHU_TOT_1718","West Ham United","Tottenham Hotspur",2,3,16674,23,5
+"eng_WHU_WAT_1718","West Ham United","Watford",2,0,14334,22,2
+"eng_WHU_WBA_1718","West Ham United","West Bromwich Albion",2,1,17950,21,3
