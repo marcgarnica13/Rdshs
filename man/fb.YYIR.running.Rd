@@ -5,7 +5,7 @@
 \alias{fb.YYIR.running}
 \title{YoYo Intermittent Recovery Test Level 1 dataset.}
 \format{
-A data frame with xxx rows and XXX variables:
+A data frame with 61 rows:
 \describe{
 \item{YYIR1}{Test performance of the respective individual in the YoYo Intermittent Recovery Test Level 1 in m.}
 \item{HIRD}{High-Intensity Running Distance of the respective individual in a football match in m.}

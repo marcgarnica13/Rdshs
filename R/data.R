@@ -23,7 +23,7 @@
 #' home goals, away goals, total number of goals and total pass distance per match
 #'
 #'
-#' @format A data frame with xxx rows and XXX variables:
+#' @format A data frame with 380 rows:
 #' \describe{
 #'   \item{match_id}{Unique identifier of each match, containing league abbreviation (country), abbreviated team names and season.}
 #'   \item{home}{Name of the home team.}
@@ -44,7 +44,7 @@
 #' X-/Y-coordinates, XG value.
 #'
 #'
-#' @format A data frame with xxx rows and XXX variables:
+#' @format A data frame with 16546 rows:
 #' \describe{
 #'   \item{minute}{Minute of play in which shot was taken.}
 #'   \item{result}{Outcome of the shot as either Goal, MissedShots, BlockedShot, SavedShot or ShotOnPost.}
@@ -79,7 +79,7 @@
 #' two variables.
 #'
 #'
-#' @format A data frame with xxx rows and XXX variables:
+#' @format A data frame with 61 rows:
 #' \describe{
 #'   \item{YYIR1}{Test performance of the respective individual in the YoYo Intermittent Recovery Test Level 1 in m.}
 #'   \item{HIRD}{High-Intensity Running Distance of the respective individual in a football match in m.}

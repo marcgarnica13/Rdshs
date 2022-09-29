@@ -5,7 +5,7 @@
 \alias{fb.epl.xg2122}
 \title{Expected Goals in the English Premier League.}
 \format{
-A data frame with xxx rows and XXX variables:
+A data frame with 16546 rows:
 \describe{
 \item{minute}{Minute of play in which shot was taken.}
 \item{result}{Outcome of the shot as either Goal, MissedShots, BlockedShot, SavedShot or ShotOnPost.}

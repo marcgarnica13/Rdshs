@@ -5,7 +5,7 @@
 \alias{fb.epl.matches1718}
 \title{English premier league statistics.}
 \format{
-A data frame with xxx rows and XXX variables:
+A data frame with 380 rows:
 \describe{
 \item{match_id}{Unique identifier of each match, containing league abbreviation (country), abbreviated team names and season.}
 \item{home}{Name of the home team.}
