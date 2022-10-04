@@ -17,6 +17,56 @@
 #' }
 "bb.draft.development"
 
+#' NBA statistics dataset.
+#'
+#' A dataset containing game statistics in the NBA.
+#'
+#'
+#' @format A data frame with 9840 games:
+#' \describe{
+#'   \item{Team}{The short name of the NBA team from whose prospective the data is recorded.}
+#'   \item{Game}{Chronological number of the game.}
+#'   \item{Date}{Date on which the game was played.}
+#'   \item{Venue}{Home or Away from the perspective of the team in question.}
+#'   \item{Opponent}{Short name of the opposition team.}
+#'   \item{WINorLOSS}{Did the team in question win(W) or loose(L) the game in question.}
+#'   \item{TeamPoints}{Total number of points scored by the team in question.}
+#'   \item{OpponentPoints}{Total number of points scored by the opposition team.}
+#'   \item{FieldGoals}{A successful basket scored on any shot or tap other than a free throw, worth two or three points}
+#'   \item{FieldGoalsAttempted}{Total number of attempted 'FieldGoals' regardless of the outcome}
+#'   \item{FieldGoalsSuccessRate}{Ratio of FieldGoals to FieldGoalsAttempted}
+#'   \item{X3PointShots}{A sucessful 'FieldGoal' scored from outside the three point line}
+#'   \item{X3PointShotsAttempted}{An attempted 'FieldGoal' from outside the three point line regrdless of its success outcome.}
+#'   \item{X3PointShotsSuccessRate}{The ratio of X3PointShots to X3PointShotsAttempted}
+#'   \item{FreeThrows}{A successful unhindered shot in basketball made from behind a set line and awarded because of a foul by an opponent.}
+#'   \item{FreeThrowsAttempted}{An attempted 'FreeThrows' regradless of its success outcome.}
+#'   \item{FreeThrowsSuccessRate}{The ratio of FreeThrows to FreeThrowsAttempted.}
+#'   \item{OffRebounds}{The team in question shoots the ball and then regains control of the ball on a rebound.}
+#'   \item{TotalRebounds}{Regaining control of the ball post an unsuccessful shot both during offense and defense.}
+#'   \item{Assists}{Total number of last passes befre a successful shot}
+#'   \item{Steals}{Total number of possession gains of the ball from the opposing team by intercepting a pass, knocking the ball off a dribble, or slapping it legally out of an opponents hands}
+#'   \item{Blocks}{Total number of tips or deflects of a shooter's shot, altering its flight so that the shot misses.}
+#'   \item{Turnovers}{total number of possession losses, either during ordinary play or as the result of a penalty for an infraction of the rules.}
+#'   \item{TotalFouls}{Total number of violations of the rules other than a floor violation, generally one which attempts to gain advantage by physical contact and are penalized by a change in possession or the awarding of free-throw opportunities(There are many different types of fouls; see personal foul, technical foul, flagrant foul, unsportsmanlike foul, and disqualifying foul).}
+#'   \item{OppFieldGoals}{'FieldGoals' scored by the Opposition team.}
+#'   \item{OppFieldGoalsAttempted}{'FieldGoalsAttempted' by the Opposition team}
+#'   \item{OppFieldGoalsSuccessRate}{'FieldGoalsSuccessRate' of the opposition team.}
+#'   \item{Opp3PointShots}{Total number of 'X3PointShots' by the opposition team}
+#'   \item{Opp3PointShotsAttempted}{Total number of 'X3PointShotsAttempted' by the opposition team}
+#'   \item{Opp3PointShotsSuccessRate}{Total number of 'X3PointShotsSuccessRate' by the opposition team}
+#'   \item{OppFreeThrows}{Total number of 'FreeThrows'(Successful) by the opposition team}
+#'   \item{OppFreeThrowsAttempted}{Total number of 'FreeThrowsAttempted' by the opposition team.}
+#'   \item{OppFreeThrowsSuccessRate}{'FreeThrowsSuccessRate' of the opposition team.}
+#'   \item{OppOffRebounds}{Total number of 'OffRebounds' gathered by the opposition team.}
+#'   \item{OppTotalRebounds}{Total number of 'TotalRebounds' gathered by the opposition team.}
+#'   \item{OppAssists}{Total number of 'Assists' gathered by the opposition team.}
+#'   \item{OppSteals}{Total number of 'Steals' by the opposition team.}
+#'   \item{OppBlocks}{Total number of 'Blocks' by the opposition team.}
+#'   \item{OppTurnovers}{Total number of 'Turnovers' by the opposition team.}
+#'   \item{OppTotalFouls}{Total number of 'Fouls' by the opposition team.}
+#' }
+"bb.nba.1418"
+
 #' English premier league statistics.
 #'
 #' All 380 matches from the English Premier League including home and away team,
