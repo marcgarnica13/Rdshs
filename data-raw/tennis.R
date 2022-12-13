@@ -15,5 +15,7 @@ t.pbp.all <- read.csv(
   "data-raw/t.pbp.all.csv",
   stringsAsFactors = FALSE,
   sep=",",
+  fileEncoding = 'UTF-8',
+  encoding = 'UTF-8'
 )
 usethis::use_data(t.pbp.all, overwrite = TRUE)
