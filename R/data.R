@@ -115,7 +115,6 @@
 #'   \item{Outcome}{Outcome of the Shot as a binary variable, Goal or NoGoal.}
 #'   \item{zone}{Zone from where the shot was taken as one out of three radial zones with increasing radius around the goal.}
 #' }
-
 #' @source <https://understat.com/>
 "fb.epl.xg2122"
 
@@ -137,3 +136,22 @@
 #'}
 #' @source Bangsbo, J., Iaia, F. M., & Krustrup, P. (2008). The Yo-Yo intermittent recovery test. Sports medicine, 38(1), 37-51.
 "fb.YYIR.running"
+
+#' Detailed shot-by-shot data from Tennis pro matches.
+#'
+#' User added detailed information of every shot in tennis matches
+#' for all Grand Slams from 2011 until 2022. Data has been obtained thanks
+#' the work of Jeff Sackmann under the Match Charting Project.
+#'
+#'
+#' @format A data frame with 60K rows:
+#' \describe{
+#'   \item{Server}{The player serving.}
+#'   \item{Sets}{Set score.}
+#'   \item{Games}{Game score.}
+#'   \item{Points}{Points in the set}
+#'   \item{Description}{Detailed rally description, standard definition in english separated by semicolon.}
+#'}
+#' @source <http://www.tennisabstract.com/charting/meta.html>
+"t.pbp.all"
+
