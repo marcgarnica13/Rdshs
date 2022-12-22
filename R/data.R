@@ -137,6 +137,62 @@
 #' @source Bangsbo, J., Iaia, F. M., & Krustrup, P. (2008). The Yo-Yo intermittent recovery test. Sports medicine, 38(1), 37-51.
 "fb.YYIR.running"
 
+#' Advanced football key principal indicators collected from Event Data.
+#'
+#' Extracted from Event data sequences, several advanced indicators are collected
+#' at player and match level as well as their playing position.
+#'
+#'
+#' @format A data frame with 54K rows:
+#' \describe{
+#'   \item{X}{Serial row identifier.}
+#'   \item{player_id}{Custom player id.}
+#'   \item{short_name}{Player short name.}
+#'   \item{player_position}{Common position of the player.}
+#'   \item{nationality}{Serial row identifier.}
+#'   \item{foot}{Strong foot of the player.}
+#'   \item{match_id}{Custom match identifier.}
+#'   \item{passes_atempted}{Attempted passes.}
+#'   \item{success_passes}{Passes completed.}
+#'   \item{high_passes}{High passes.}
+#'   \item{simple_passes}{Simple passes.}
+#'   \item{smart_passes}{Smart passes.}
+#'   \item{hand_passes}{Passes by hand.}
+#'   \item{head_passes}{Head passes.}
+#'   \item{passes_in_counter}{Passes in counter-attack}
+#'   \item{pass_length}{Accumulative pass length during the whole match}
+#'   \item{pass_length_sd}{Pass length standard deviation during the whole match}
+#'   \item{pass_direction}{Average pass direction in degrees with a reference in the goal}
+#'   \item{pass_direction_sd}{Pass direction standard deviation}
+#'   \item{pass_mean_pos_x}{Average position of the passes in the X-axis}
+#'   \item{pass_mean_pos_y}{Average position of the passes in the Y-axis}
+#'   \item{target_mean_pos_x}{Average target position of the passes in the X-axis}
+#'   \item{target_mean_pos_y}{Average target position of the passes in the Y-axis}
+#'   \item{shots_atempted}{Attempted shots.}
+#'   \item{shots_on_target}{Shots on target.}
+#'   \item{left_foot_shots}{Shots attempted with the left foot.}
+#'   \item{right_foot_shots}{Shots attempted with the right foot.}
+#'   \item{headers}{Header shot.}
+#'   \item{shots_inside_box}{Attempted shots from inside the box.}
+#'   \item{shot_mean_pos_x}{Average position of the shots in the X-axis.}
+#'   \item{shot_mean_pos_y}{Average position of the shots in the Y-axis.}
+#'   \item{fouls}{Fouls commited.}
+#'   \item{air_duels}{Air duels.}
+#'   \item{box_air_duels}{Air duels in their own box.}
+#'   \item{mean_x_air_duels}{Average position of air duels in the X-axis}
+#'   \item{sum_x_air_duels}{Accumulative air duels height in the pitch based on the X-axis}
+#'   \item{tackles}{Tackles performed.}
+#'   \item{box_tackles}{Tackesl in their own box.}
+#'   \item{mean_x_tackles}{Average position of tackles in the X-axis}
+#'   \item{sum_x_tackles}{Accumulative tackles height in the pitch based on the X-axis}
+#'   \item{interceptions}{Interceptions performed.}
+#'   \item{box_interceptions}{Interceptions in their own box.}
+#'   \item{mean_x_interceptions}{Average position of interceptions in the X-axis}
+#'   \item{sum_x_interceptions}{Accumulative interceptions height in the pitch based on the X-axis}
+#'}
+#' @source Pappalardo, L., Cintia, P., Rossi, A., Massucco, E., Ferragina, P., Pedreschi, D., & Giannotti, F. (2019). A public data set of spatio-temporal match events in soccer competitions. Scientific data, 6(1), 1-15.
+"fb.logs.player_position"
+
 #' Detailed shot-by-shot data from Tennis pro matches.
 #'
 #' User added detailed information of every shot in tennis matches
