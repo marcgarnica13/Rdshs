@@ -13,3 +13,6 @@ fb.logs.player_position <- read.csv(
 )
 fb.logs.player_position$short_name <- stringi::stri_unescape_unicode(fb.logs.player_position$short_name)
 usethis::use_data(fb.logs.player_position, overwrite = TRUE)
+
+fb.europe.xg1622 <- read.csv("data-raw/fb.europe.xg1622.csv", row.names = 1, stringsAsFactors = TRUE, encoding = "latin1")
+usethis::use_data(fb.europe.xg1622, overwrite = TRUE)
