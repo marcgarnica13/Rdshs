@@ -16,3 +16,11 @@ usethis::use_data(fb.logs.player_position, overwrite = TRUE)
 
 fb.europe.xg1622 <- read.csv("data-raw/fb.europe.xg1622.csv", row.names = 1, stringsAsFactors = TRUE, encoding = "latin1")
 usethis::use_data(fb.europe.xg1622, overwrite = TRUE)
+
+fb.europe.playerxg1718 <- read.csv("data-raw/fb.europe.playerxg1718.csv", fileEncoding = "UTF-8", encoding="UTF-8")
+Encoding(fb.europe.playerxg1718$player) <- "UTF-8"
+usethis::use_data(fb.europe.playerxg1718, overwrite = TRUE)
+
+fb.europe.marketvalue1718 <- read.csv("data-raw/fb.europe.marketvalue1718.csv", fileEncoding = "UTF-8", encoding="UTF-8")
+Encoding(fb.europe.marketvalue1718$player_name) <- "UTF-8"
+usethis::use_data(fb.europe.marketvalue1718, overwrite = TRUE)
