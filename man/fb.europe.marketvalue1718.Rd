@@ -11,7 +11,7 @@ A data frame with 2372 rows:
 \item{player_name}{Name of the player.}
 \item{marketval}{Market Value of the player.}
 \item{position_tm}{Position playing in current team.}
-\item{Competition}{Football competition currently playing in.}
+\item{competition}{Football competition currently playing in.}
 \item{team}{Player's team.}
 \item{Name.Wyscout}{Player name as represented in Wyscout data sources.}
 }
