@@ -311,6 +311,47 @@
 #' @source Pappalardo, L., Cintia, P., Rossi, A., Massucco, E., Ferragina, P., Pedreschi, D., & Giannotti, F. (2019). A public data set of spatio-temporal match events in soccer competitions. Scientific data, 6(1), 1-15.
 "fb.logs.player_position"
 
+#' Detailed tracking data from a football game.
+#'
+#' @format A data frame with 141,158 rows:
+#' \describe{
+#'   \item{Period}{Period of the game.}
+#'   \item{Frame}{Snapshot of the game.}
+#'   \item{Time_s}{Time in the game.}
+#'   \item{Player1x}{X coordinates of player 1.}
+#'   \item{Player1y}{Y coordinates of player 1.}
+#'   \item{Player2x}{X coordinates of player 2.}
+#'   \item{Player2y}{Y coordinates of player 2.}
+#'   \item{Player3x}{X coordinates of player 3.}
+#'   \item{Player3y}{Y coordinates of player 3.}
+#'   \item{Player4x}{X coordinates of player 4.}
+#'   \item{Player4y}{Y coordinates of player 4.}
+#'   \item{Player5x}{X coordinates of player 5.}
+#'   \item{Player5y}{Y coordinates of player 5.}
+#'   \item{Player6x}{X coordinates of player 6.}
+#'   \item{Player6y}{Y coordinates of player 6.}
+#'   \item{Player7x}{X coordinates of player 7.}
+#'   \item{Player7y}{Y coordinates of player 7.}
+#'   \item{Player8x}{X coordinates of player 8.}
+#'   \item{Player8y}{Y coordinates of player 8.}
+#'   \item{Player9x}{X coordinates of player 9.}
+#'   \item{Player9y}{Y coordinates of player 9.}
+#'   \item{Player10x}{X coordinates of player 10.}
+#'   \item{Player10y}{Y coordinates of player 10.}
+#'   \item{Player11x}{X coordinates of player 11.}
+#'   \item{Player11y}{Y coordinates of player 11.}
+#'   \item{Player12x}{X coordinates of player 12.}
+#'   \item{Player12y}{Y coordinates of player 12.}
+#'   \item{Player13x}{X coordinates of player 13.}
+#'   \item{Player13y}{Y coordinates of player 13.}
+#'   \item{Player14x}{X coordinates of player 14.}
+#'   \item{Player14y}{Y coordinates of player 14.}
+#'   \item{Ballx}{.}
+#'   \item{Bally}{.}
+#'}
+#' @source Metrica Sports https://github.com/metrica-sports/sample-data/tree/master/data
+"fb.metrica.trackingH1"
+
 #' Detailed shot-by-shot data from Tennis pro matches.
 #'
 #' User added detailed information of every shot in tennis matches
