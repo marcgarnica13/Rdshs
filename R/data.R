@@ -147,9 +147,37 @@
 #'   \item{player_assisted}{Name of the player giving the assist for the shot.}
 #'   \item{lastAction}{Type of the action preceding the shot}
 #'   \item{outcome}{Outcome of the Shot as a binary variable, Goal or NoGoal.}
+#'   \item{team}{Team performing the shot.}
 #' }
-#' @source <https://understat.com/>
+#' @source understat.com
 "fb.europe.xg1622"
+
+#' Collection of datasets from players.
+#'
+#'
+#'
+#' @format A data frame:
+#' \describe{
+#'   \item{player_name}{Name of the player.}
+#'   \item{Name.Wyscout}{Player's name as registered in the Wyscout dataset.}
+#'   \item{marketval}{Current market value of the player.}
+#'   \item{position_tm}{Primary playing position of the player, as listed in Transfermarkt.}
+#'   \item{competition}{Name of the competition in which the player is participating.}
+#'   \item{team}{Name of the team the player currently plays for.}
+#'   \item{player_id}{Unique identifier for the player.}
+#'   \item{foot}{Preferred playing foot of the player (right, left, both).}
+#'   \item{position_wy}{Primary playing position of the player, as listed in Wyscout.}
+#'   \item{passes}{Total number of passes attempted by the player.}
+#'   \item{success_passes}{Number of successfully completed passes by the player.}
+#'   \item{pass_length}{Average length of the player's passes.}
+#'   \item{pass_mean_pos_x}{Average x-coordinate of the player's position when making passes.}
+#'   \item{pass_mean_pos_y}{Average y-coordinate of the player's position when making passes.}
+#'   \item{n_shots}{Total number of shots taken by the player.}
+#'   \item{totxg}{Total expected goals value from all shots taken by the player.}
+#'   \item{totxa}{Total expected assists value from all passes made by the player.}
+#' }
+#' @source understat.com, transfermarkt.de, WyScout public database
+"fb.europe.players1718"
 
 #' 2017-2018 Player Market values in European Football.
 #'

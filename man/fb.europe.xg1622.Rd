@@ -28,10 +28,11 @@ A data frame with 262951 rows:
 \item{player_assisted}{Name of the player giving the assist for the shot.}
 \item{lastAction}{Type of the action preceding the shot}
 \item{outcome}{Outcome of the Shot as a binary variable, Goal or NoGoal.}
+\item{team}{Team performing the shot.}
 }
 }
 \source{
-\url{https://understat.com/}
+understat.com
 }
 \usage{
 fb.europe.xg1622
