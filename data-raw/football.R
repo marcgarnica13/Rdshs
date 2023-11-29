@@ -35,6 +35,14 @@ fb.europe.players1718 <-
   )
 usethis::use_data(fb.europe.players1718, overwrite = TRUE)
 
+fb.leicester.xg1516 <-
+  read.csv(
+    "data-raw/fb.leicester.xg1516.csv",
+    stringsAsFactors = TRUE,
+    encoding = "latin1"
+  )
+usethis::use_data(fb.leicester.xg1516, overwrite = TRUE)
+
 fb.europe.playerxg1718 <-
   read.csv(
     "data-raw/fb.europe.playerxg1718.csv",
